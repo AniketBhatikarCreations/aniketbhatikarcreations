@@ -7,7 +7,7 @@
 
 ### ✨ Inspirational Quote:
 <p align="center">
-  <img src="https://readme-quote-generator.vercel.app/api?quote=Opportunities%20are%20created%20and%20not%20gifted.&author=Aniket%20Bhatikar&theme=tokyonight" alt="Quote">
+  <img src="https://api.memegen.link/images/custom/_/Opportunities_are_created_and_not_gifted.~Aniket_Bhatikar.png?background=white&text_color=black" alt="Quote" width="500">
 </p>
 
 ---
@@ -37,6 +37,7 @@
 
 ### 📫 Connect with me:
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/AniketBhatikarCreations)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aniketbhatikarcreations)
 
 ---
