@@ -38,7 +38,7 @@
 ---
 
 ### 🌐 My Website:
-(click on the logo to visit)
+(click the logo below to visit)
 <p align="center">
   <a href="https://aniketbhatikarcreations.github.io">
     <img src="https://aniketbhatikarcreations.github.io/abc.png" alt="Aniket Bhatikar Logo" width="200">
