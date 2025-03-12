@@ -32,8 +32,9 @@
 ---
 
 ### ✨ Inspirational Quote:
-![Quote](https://img.shields.io/badge/💡%20Opportunities%20are%20created%20and%20not%20gifted.-orange?style=for-the-badge)
-
+<p align="center">
+  <img src="https://svgshare.com/i/18Kp.svg" alt='"Opportunities are created and not gifted." - Aniket Bhatikar' width="500"/>
+</p>
 ---
 
 ### 🌐 My Website:
