@@ -32,8 +32,8 @@
 ---
 
 ### ✨ Inspirational Quote:
-> *"𝒪𝓅𝓅𝑜𝓇𝓉𝓊𝓃𝒾𝓉𝒾𝑒𝓈 𝒶𝓇𝑒 𝒸𝓇𝑒𝒶𝓉𝑒𝒹 𝒶𝓃𝒹 𝓃𝑜𝓉 𝑔𝒾𝒻𝓉𝑒𝒹."*  
-> — **𝒜𝓃𝒾𝓀𝑒𝓉 𝐵𝒽𝒶𝓉𝒾𝓀𝒶𝓇**
+> <span style="color:orange; font-family:cursive; font-size:1.2em;">"Opportunities are created and not gifted."</span>  
+> — <span style="color:orange; font-family:cursive;">Aniket Bhatikar</span>
 
 ---
 
