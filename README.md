@@ -38,7 +38,11 @@
 ---
 
 ### 🌐 My Website:
-[![Website](https://img.shields.io/badge/My%20Website-Visit%20Now-orange?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://aniketbhatikarcreations.github.io/index.html)  
+<p align="center">
+  <a href="https://aniketbhatikarcreations.github.io">
+    <img src="https://aniketbhatikarcreations.github.io/abc.png" alt="Aniket Bhatikar Logo" width="200">
+  </a>
+</p>
 
 ---
 
