@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Aniket! 👋  
+🔥 High Schooler | Coder | Innovator  
+🚀 Passionate about Physics, Chemistry, Maths, and Computer Science  
+🎯 Goal: Successful Programmer
+### 🚀 Tech Stack:
+- Programming: Python  
+- Web Dev: HTML, CSS  
+- IoT: Arduino, ESP8266  
+- Tools: Git, VS Code, Teachable Machine
 
-<!--
-**AniketBhatikarCreations/aniketbhatikarcreations** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AniketBhatikarCreations&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=AniketBhatikarCreations&theme=dark&hide_border=true)
 
-Here are some ideas to get you started:
+### 📫 Connect with me:
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/AniketBhatikarCreations)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aniketbhatikarcreations)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
