@@ -30,10 +30,10 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=AniketBhatikarCreations&theme=dark&hide_border=true)  
 
 ---
-
 ### ✨ Inspirational Quote:
 <p align="center">
-  <img src="https://svgshare.com/i/18Kp.svg" alt='"Opportunities are created and not gifted." - Aniket Bhatikar' width="500"/>
+  <i><span style="color: orange; font-size: 20px;">"Opportunities are created and not gifted."</span></i><br>
+  - Aniket Bhatikar
 </p>
 ---
 
