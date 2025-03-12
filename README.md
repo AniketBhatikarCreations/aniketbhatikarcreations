@@ -1,4 +1,4 @@
-# Hi, I'm Aniket! 👋  
+# Hi, I'm Aniket Bhatikar! 👋  
 🔥 High Schooler | Coder | Innovator  
 🚀 Passionate about Physics, Chemistry, Maths, and Computer Science  
 🎯 Goal: Successful Programmer
@@ -9,6 +9,7 @@
 - Tools: Git, VS Code, Teachable Machine
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AniketBhatikarCreations&show_icons=true&theme=tokyonight)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=AniketBhatikarCreations&theme=dark&hide_border=true)
 
 ### 📫 Connect with me:
