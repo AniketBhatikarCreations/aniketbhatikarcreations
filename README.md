@@ -27,8 +27,6 @@
 ### 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AniketBhatikarCreations&show_icons=true&theme=tokyonight)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AniketBhatikarCreations&theme=dark&hide_border=true)  
-
 ---
 
 ### ✨ Inspirational Quote:
