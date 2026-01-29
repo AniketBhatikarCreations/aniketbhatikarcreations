@@ -25,7 +25,7 @@
 ---
 
 ### 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AniketBhatikarCreations&show_icons=true&theme=tokyonight)  
+!(https://github-readme-stats.vercel.app/api?username=AniketBhatikarCreations&show_icons=true&theme=tokyonight)  
 
 ---
 
