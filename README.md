@@ -1,7 +1,7 @@
 # Hi, I'm Aniket Bhatikar! 👋  
 🔥 Tech Enthusiast | Innovator  
 🚀 Passionate about **Maths, Electronics and Computer Science**  
-🎯 Goal: **Successful Programmer & Tech Enthusiast**  
+🎯 Goal: **Never Stop Exploring**  
 
 ---
 
