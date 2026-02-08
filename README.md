@@ -1,5 +1,5 @@
 # Hi, I'm Aniket Bhatikar! 👋  
-🔥 High Schooler | Coder | Innovator  
+🔥 Tech Enthusiast | Innovator  
 🚀 Passionate about **Maths, Electronics and Computer Science**  
 🎯 Goal: **Successful Programmer & Tech Enthusiast**  
 
