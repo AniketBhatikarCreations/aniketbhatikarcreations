@@ -30,7 +30,6 @@
 
 <p align="center">
   <i><span style="color: orange; font-size: 20px;">"Opportunities are created and not gifted."</span></i><br>
-  - Aniket Bhatikar
 </p>
 
 ---
